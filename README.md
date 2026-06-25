@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="/banner.jpeg" width="100%" alt="Satyam Tiwari Banner"/>
+</p>
 Hi 👋 I'm Satyam Tiwari
 
 IT Undergraduate @ NIT Raipur
